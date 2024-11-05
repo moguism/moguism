@@ -1,4 +1,5 @@
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moguism&layout=compact&theme=midnight-purple" alt="moguism" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moguism&layout=compact&theme=midnight-purple" alt="moguism"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V4aTV4cmxmd2FieXg1emNvcDhiczN6cGVkcDRoeTR3MjY1aXh5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nSHcJx9qJmfn3YNQgX/giphy.gif" height="165">
 <!--
 **moguism/moguism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
