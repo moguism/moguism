@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h3 align="center" style="color: green">"A smile is a valuable tool my dear, it inspires your friends, keeps your enemies guessing, and ensures no matter what comes your way, you are in control."</h3>
 
-- **Mis proyectos más interesantes se encuentran después de esta descripción😶‍🌫️**
+- **Mis proyectos más interesantes se encuentran después de esta descripción, pero hay más en [mis repositorios](https://github.com/moguism?tab=repositories)😶‍🌫️**
 - Fun fact😎 **No sé nada de Adobe, pero me pareció gracioso nombrar un producto al final :)**
 
 <h3 align="center">Stacks:</h3>
