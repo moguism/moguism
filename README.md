@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moguism&layout=compact&theme=midnight-purple" alt="moguism"/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moguism&show_icons=true&locale=en" alt="moguism" /></p>
 
-<img src="https://youtubemusicreadme.onrender.com" alt="Imagen">
+<p align="center"><img src="https://youtubemusicreadme.onrender.com" alt="Imagen"></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moguism&" alt="moguism" /></p>
 
