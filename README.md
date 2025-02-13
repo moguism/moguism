@@ -25,11 +25,10 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moguism&layout=compact&theme=midnight-purple" alt="moguism"/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moguism&show_icons=true&locale=en" alt="moguism" /></p>
-
-<p align="center"><img src="https://scrawny-eolanda-moguism-b37c14d2.koyeb.app" alt="Imagen"></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moguism&" alt="moguism" /></p>
 
+<h3>🎶 Escuchando ahora mismo</h3>
+<p align="center"> <img src="https://scrawny-eolanda-moguism-b37c14d2.koyeb.app" alt="Imagen"></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moguism&label=Profile%20views&color=0e75b6&style=flat" alt="moguism" /> </p>
 
 
