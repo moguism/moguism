@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moguism&" alt="moguism" /></p>
 
 <h3>🎶 Escuchando ahora mismo</h3>
-<p align="center"> <img src="https://scrawny-eolanda-moguism-b37c14d2.koyeb.app/" alt="Imagen"></p>
+<p align="center"> <img src="https://yt-music-readme.vercel.app/" alt="Imagen"></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moguism&label=Profile%20views&color=0e75b6&style=flat" alt="moguism" /> </p>
 
 
