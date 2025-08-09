@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moguism&layout=compact&theme=midnight-purple" alt="moguism"/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moguism&show_icons=true&locale=en" alt="moguism" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moguism&" alt="moguism" /></p>
+<p align="center"><img src="https://github-readme-streak-stats-zeta-one-55.vercel.app?user=moguism&theme=telegram-gradient&hide_border=true" alt="moguism" /></p>
 
 <h3>🎶 Escuchando ahora mismo</h3>
 <p align="center"> <img src="https://yt-music-readme.vercel.app/" alt="Púlsame"></p>
