@@ -28,6 +28,5 @@ Here are some ideas to get you started:
 
 <h3>🎶 Escuchando ahora mismo</h3>
 <p align="center"> <img src="https://yt-music-readme.vercel.app/" alt="Púlsame"></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=moguism&label=Profile%20views&color=0e75b6&style=flat" alt="moguism" /> </p>
 
 
