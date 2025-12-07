@@ -13,20 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2>😎 Moguism</h2>
 <h3 align="center" style="color: green">"A smile is a valuable tool my dear, it inspires your friends, keeps your enemies guessing, and ensures no matter what comes your way, you are in control."</h3>
 
-- **Mis proyectos más interesantes se encuentran después de esta descripción, pero hay más en [mis repositorios](https://github.com/moguism?tab=repositories)😶‍🌫️**
-- Fun fact😎 **No sé nada de Adobe, pero me pareció gracioso nombrar un producto al final :)**
+- Mis proyectos más interesantes se encuentran después de esta descripción, pero hay más en **[mis repositorios](https://github.com/moguism?tab=repositories)😶‍🌫️**
 
-<h3 align="center">Stacks:</h3>
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-</p>
+<h2>📊 Stats</h2>
 
 <p align="center"> <img src="https://github-readme-stats-zeta-wheat-63.vercel.app/api/top-langs/?username=moguism&layout=compact&theme=midnight-purple&langs_count=10" alt="moguism"/>
 <p align="center"><img src="https://github-readme-streak-stats-zeta-one-55.vercel.app?user=moguism&theme=telegram-gradient&hide_border=true" alt="moguism" /></p>
 
-<h3>🎶 Escuchando ahora mismo</h3>
+<h2>🎶 Escuchando ahora mismo</h2>
 <p align="center"> <img src="https://yt-music-readme.vercel.app/" alt="Púlsame"></p>
 
 
