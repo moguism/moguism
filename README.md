@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h2>📊 Stats</h2>
 
-<p align="center"> <img src="https://github-readme-stats-zeta-wheat-63.vercel.app/api/top-langs/?username=moguism&layout=compact&theme=midnight-purple&langs_count=10" alt="moguism"/>
+<!--<p align="center"> <img src="https://github-readme-stats-zeta-wheat-63.vercel.app/api/top-langs/?username=moguism&layout=compact&theme=midnight-purple&langs_count=10" alt="moguism"/>-->
 <p align="center"><img src="https://github-readme-streak-stats-zeta-one-55.vercel.app?user=moguism&theme=telegram-gradient&hide_border=true" alt="moguism" /></p>
 
 <h2>🎶 Escuchando ahora mismo</h2>
